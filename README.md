@@ -1,4 +1,4 @@
-[Back to main Page](teamcstudios.github.io)
+[Back to main Page](https://teamcstudios.github.io/)
 
 At the beginning of 2017, the governments of the world and the United Nations are suddenly disolved, and a new order rises to take their place: YouTubers. YouTubers divide the world up amongst themselves. Everything is peaceful... For a few days.
 
