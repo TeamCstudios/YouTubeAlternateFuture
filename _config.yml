@@ -1,1 +1,8 @@
 theme: jekyll-theme-midnight
+
+title: Youtube Alternate Future
+description: For the alternant future
+show_downloads: false
+
+gems:
+  - jekyll-mentions
